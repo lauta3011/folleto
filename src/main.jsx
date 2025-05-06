@@ -5,6 +5,6 @@ import Magazine from './components/Magazine.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Magazine file="/folleto_final.pdf" />
+    <Magazine file="/folleto/folleto_final.pdf" />
   </StrictMode>,
 )
